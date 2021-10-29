@@ -1,5 +1,5 @@
 ## 👋 Hi there，I'm [Khylon](https://khylonwong.github.io/)
----
+
 - 🤔 I'm a programming amateur.
 - 🔭 I’m currently working on  [iLearn](https://ilearn.sdu.edu.cn/)
 - 🔥 More recently, I focus on multimedia computing
@@ -10,7 +10,7 @@
 
 
 ## 🔰 Statistics
----
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khylonwong&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
