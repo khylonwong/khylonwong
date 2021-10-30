@@ -1,4 +1,5 @@
 ## 👋 Hi there，I'm [Khylon](https://khylonwong.github.io/)
+<img align="right" alt="GIF" src="https://github.com/khylonwong/khylonwong/blob/main/code.gif" width="270" height="100%" />
 
 - 🤔 I'm a programming amateur.
 - 🔭 I’m currently working on  [iLearn](https://ilearn.sdu.edu.cn/)
